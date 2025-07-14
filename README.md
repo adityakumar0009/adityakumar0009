@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Aspiring ML Engineer & Full Stack Developer | MERN & AI Enthusiast</h3>
 
 <p align="center">
-   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&center=true&vCenter=true&multiline=true&width=500&height=80&lines=Welcome+to+my+GitHub!;I+love+solving+real-world+problems.;Building+projects+with+React+%26+ML+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&center=true&vCenter=true&multiline=true&width=500&height=80&lines=Welcome+to+my+GitHub!;I+love+solving+real-world+problems.;Building+projects+with+React+%26+ML+🚀" alt="Typing SVG" />
 </p>
 
 ---
